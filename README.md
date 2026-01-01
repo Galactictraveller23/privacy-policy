@@ -1,10 +1,10 @@
 # privacy-policy
-# Stress Buster Privacy Policy
+# Mind Armor Privacy Policy
 Last updated: 12/30/2025
 
 ## Overview
 
-Stress Buster ("we", "our", or "the app") is committed to protecting your privacy. This policy explains how we handle your information.
+Mind Armor ("we", "our", or "the app") is committed to protecting your privacy. This policy explains how we handle your information.
 
 ## Data Collection
 
@@ -26,7 +26,7 @@ We do not share any data with third parties because we do not collect any data.
 
 ## Third-Party Services
 
-Stress Buster does not integrate with any third-party analytics, advertising, or tracking services.
+Mind Armor does not integrate with any third-party analytics, advertising, or tracking services.
 
 ## Children's Privacy
 
@@ -45,6 +45,6 @@ genieimagination@gmail.com
 
 Since all data is stored locally on your device, you have complete control over your information. You can delete all app data by uninstalling the application.
 
-10. CONTACT INFORMATION
+## CONTACT INFORMATION
 
 Email: genieimagination@gmail.com
